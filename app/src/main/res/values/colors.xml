@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Crema: the tile behind the cup, and the splash backdrop. -->
+    <color name="ic_launcher_background">#F5E0C8</color>
+    <color name="splash_background">#F5E0C8</color>
+    <!-- Foam: matches the Compose light surface, so there is no flash on handoff. -->
+    <color name="app_background">#FFF8F2</color>
+</resources>

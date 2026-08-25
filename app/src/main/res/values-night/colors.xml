@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bean: matches the Compose dark surface. -->
+    <color name="app_background">#2A1A10</color>
+</resources>
